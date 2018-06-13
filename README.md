@@ -1,15 +1,14 @@
 # Báo cáo đồ án cuối kì
 ### Bố cục báo cáo tổng hợp
+![Alt Text](https://github.com/CSDLNC/Project-Report/blob/master/Images/Untitled1.png)
 
 ### Sơ đồ folder sẽ nộp theo yêu cầu trong đồ án
 
 1. Folder bao gồm Báo cáo và Source code - Scripts
 
-![Alt Text](https://github.com/CSDLNC/Project-Report/blob/master/Images/Untitled1.png)
+![Alt Text](https://github.com/CSDLNC/Project-Report/blob/master/Images/Untitled..png)
 
 2. Folder bao gồm Source code - Scripts
-
-![Alt Text](https://github.com/CSDLNC/Project-Report/blob/master/Images/Untitled..png)
 
     2.1 Folder chứa Database
     
